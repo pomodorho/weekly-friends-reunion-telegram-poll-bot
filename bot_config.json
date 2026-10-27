@@ -9,10 +9,10 @@
   "MIN_TIEBREAK_VOTES": 3,
   "FIRST_POLL_QUESTION": "Che giorno preferite?",
   "TIEBREAK_QUESTION": "Ex aequo: quale giorno scegliamo?",
-  "GROUP_NAME": "Ciccini",
+  "GROUP_NAME": "Ragazzi",
   "SCHEDULE": {
     "weekday": 1,
-    "time": "17:30",
+    "time": "17:05",
     "timezone": "Europe/Rome",
     "first_poll_hours": 22,
     "tiebreak_hours": 8
