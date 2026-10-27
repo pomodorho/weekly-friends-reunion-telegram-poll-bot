@@ -6,7 +6,8 @@
     "Mercoled\u00ec sera",
     "Gioved\u00ec sera",
     "Venerd\u00ec sera",
-    "Weekende"
+    "Weekende",
+    "prova"
   ],
   "EXCLUDED_OPTION": "Non posso",
   "MIN_TIEBREAK_VOTES": 3,
