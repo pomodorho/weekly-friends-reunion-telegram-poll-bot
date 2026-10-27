@@ -15,8 +15,8 @@
   "TIEBREAK_QUESTION": "Ex aequo: quale giorno scegliamo?",
   "GROUP_NAME": "Ciccini",
   "SCHEDULE": {
-    "weekday": 6,
-    "time": "11:07",
+    "weekday": 1,
+    "time": "03:30",
     "timezone": "Europe/Rome",
     "first_poll_hours": 22,
     "tiebreak_hours": 8
