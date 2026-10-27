@@ -1,13 +1,9 @@
 {
   "OPTIONS": [
     "Non posso",
-    "Luned\u00ec sera",
+    "prova",
     "Marted\u00ec sera",
-    "Mercoled\u00ec sera",
-    "Gioved\u00ec sera",
-    "Venerd\u00ec sera",
-    "Weekende",
-    "prova"
+    "prova 2"
   ],
   "EXCLUDED_OPTION": "Non posso",
   "MIN_TIEBREAK_VOTES": 3,
@@ -16,7 +12,7 @@
   "GROUP_NAME": "Ciccini",
   "SCHEDULE": {
     "weekday": 1,
-    "time": "03:30",
+    "time": "17:30",
     "timezone": "Europe/Rome",
     "first_poll_hours": 22,
     "tiebreak_hours": 8
