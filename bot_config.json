@@ -1,19 +1,23 @@
 {
   "OPTIONS": [
     "Non posso",
-    "Lunedì sera",
-    "Martedì sera",
-    "Mercoledì sera",
-    "Giovedì sera",
-    "Venerdì sera",
-    "Sabato pomeriggio",
-    "Sabato sera",
-    "Domenica pomeriggio",
-    "Domenica sera"
+    "Luned\u00ec sera",
+    "Marted\u00ec sera",
+    "Mercoled\u00ec sera",
+    "Gioved\u00ec sera",
+    "Venerd\u00ec sera",
+    "Weekend"
   ],
   "EXCLUDED_OPTION": "Non posso",
   "MIN_TIEBREAK_VOTES": 3,
   "FIRST_POLL_QUESTION": "Che giorno preferite?",
   "TIEBREAK_QUESTION": "Ex aequo: quale giorno scegliamo?",
-  "GROUP_NAME": "Ciccini"
+  "GROUP_NAME": "Ciccini",
+  "SCHEDULE": {
+    "weekday": 6,
+    "time": "11:07",
+    "timezone": "Europe/Rome",
+    "first_poll_hours": 22,
+    "tiebreak_hours": 8
+  }
 }
